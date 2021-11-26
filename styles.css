@@ -1,0 +1,471 @@
+body {
+    margin: 0;
+    background-image: url('./bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.c {
+    border-radius: 15px;
+    box-shadow: inset;
+}
+
+.tle {
+    margin: 0 auto;
+    width: 60%;
+    border-radius: 15px;
+    background-color: rgba(178, 236, 181, 0.8);
+}
+
+.txt {
+    font-family: PWC;
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(14, 11, 11);
+    text-align: center;
+}
+
+@font-face {
+    font-family: PWC;
+    src: url('./fonts/Candcu__.ttf');
+}
+
+.datetxt {
+    font-family: PWC;
+    font-weight: bolder;
+    font-size: 45px;
+    color: rgb(14, 5, 5);
+
+}
+
+
+.date {
+    position: relative;
+    left: 5px;
+    top: 150px;
+}
+
+.section {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card1 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card2 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card3 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card4 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card5 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card6 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card7 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card8 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card9 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card10 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card11 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card12 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card13 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card14 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card15 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card16 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card17 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card18 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card19 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card20 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card20 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card21 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card22 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card23 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card24 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.card25 {
+    padding: 25px;
+    width: 240px;
+    height: 280px;
+    background-image: url('./Untitled_Artwork.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+
+
+.card1:hover {
+    background-image: url('./rudolph.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.c:hover .date {
+    display: none;
+}
+
+.card2:hover {
+    background-image: url('./planestrains.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card3:hover {
+    background-image: url('./night.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card4:hover {
+    background-image: url('./polar.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card5:hover {
+    background-image: url('./muppet.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card6:hover {
+    background-image: url('./manwho.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card7:hover {
+    background-image: url('./love.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card8:hover {
+    background-image: url('./last.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card9:hover {
+    background-image: url('./kranks.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card10:hover {
+    background-image: url('./klaus.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card11:hover {
+    background-image: url('./scrooged.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card12:hover {
+    background-image: url('./jingle.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card13:hover {
+    background-image: url('./homealone.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card14:hover {
+    background-image: url('./griswald.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card15:hover {
+    background-image: url('./grinch2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card16:hover {
+    background-image: url('./grinch.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card17:hover {
+    background-image: url('./gremlims.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card18:hover {
+    background-image: url('./four.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card19:hover {
+    background-image: url('./elf.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card20:hover {
+    background-image: url('./christprince.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card21:hover {
+    background-image: url('./sc3.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card22:hover {
+    background-image: url('./sc2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card23:hover {
+    background-image: url('./charile.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card24:hover {
+    background-image: url('./48.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card25:hover {
+    background-image: url('./sc1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
